@@ -1,10 +1,9 @@
+![logo](https://github.com/PrernaUpadhyay/PrernaUpadhyay/blob/main/Version%20Control%20and%20Collaboration%20Platforms.jpeg)
+
 # 👋 Hello! I'm Prerna Upadhyay  
 ## 💻 IT Engineer | Python & Web Development Enthusiast | Open-source Contributor
 
 ![Header](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
-
-![Tech Image](https://i.pinimg.com/originals/6c/b2/f1/6cb2f18f02a373e4885e308b0d826832.jpg) 
-
 I am an enthusiastic IT Engineer with a passion for Python, HTML, and web development. I love building efficient solutions, automating workflows, and developing visually appealing websites.
 
 ---
