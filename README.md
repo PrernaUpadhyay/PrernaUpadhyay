@@ -17,9 +17,19 @@ I am an enthusiastic IT Engineer with a passion for Python, HTML, and web develo
 - 📫 How to reach me: [prerana7upadhyay@gmail.com](mailto:prerana7upadhyay@gmail.com)
 
 ---
-### 📊 Most Used Language
+### 🛠️ Languages and Tools
 
-![Most Used Language](https://img.shields.io/github/languages/top/Prerna Upadhyay/yourrepository?style=for-the-badge&logo=python)
+#### Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+
+#### Tools
+- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=jetbrains&logoColor=white) 
+- ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0C?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
