@@ -3,7 +3,7 @@
 # 👋 Hello! I'm Prerna Upadhyay  
 ## 💻 IT Engineer | Python & Web Development Enthusiast | Open-source Contributor
 
-![Header](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
+
 I am an enthusiastic IT Engineer with a passion for Python, HTML, and web development. I love building efficient solutions, automating workflows, and developing visually appealing websites.
 
 ---
@@ -15,6 +15,11 @@ I am an enthusiastic IT Engineer with a passion for Python, HTML, and web develo
 - 🤝 I’m looking to collaborate on **Open-source Python and web projects**
 - 💬 Ask me about **Python, HTML, CSS, and Git**
 - 📫 How to reach me: [prerana7upadhyay@gmail.com](mailto:prerana7upadhyay@gmail.com)
+
+---
+### 📊 Most Used Language
+
+![Most Used Language](https://img.shields.io/github/languages/top/Prerna Upadhyay/yourrepository?style=for-the-badge&logo=python)
 
 ---
 
