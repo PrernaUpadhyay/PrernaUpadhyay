@@ -3,7 +3,7 @@
 
 ![Header](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
 
-![Tech Image](https://drive.google.com/uc?id=file-W1XdPdd7bvbMKN275M18CgJw)
+![Tech Image](https://pin.it/1ByA1qC02)
 
 I am an enthusiastic IT Engineer with a passion for Python, HTML, and web development. I love building efficient solutions, automating workflows, and developing visually appealing websites.
 
